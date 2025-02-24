@@ -10,7 +10,7 @@
 - [Blitz Entrümpelungen Zentrum](https://blitz-entruempelungen.de/)
 - [K&A Business Services](https://ka-services.de/)
 
-<h2> 💬 Kontakt </h2>
+<h2> 💬 Contact me </h2>
 
 [<img align="left" alt="Kaano69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
