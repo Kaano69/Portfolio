@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kaan! <br/>Welcome to my portfolio! 😀</br></h1>
+<h1>Hi, I'm Kaan! <br/>Willkommen in meinem Portfolio! 😀</br></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projekte:</h2>
 
 - **[Portscanner-Kali-Linux](https://github.com/Kaano69/Portscanner-Kali-Linux-/blob/main/README.md)**
 
@@ -10,7 +10,7 @@
 - [Blitz Entrümpelungen Zentrum](https://blitz-entruempelungen.de/)
 - [K&A Business Services](https://ka-services.de/)
 
-<h2> 💬 Contact me </h2>
+<h2> 💬 Kontakt </h2>
 
 [<img align="left" alt="Kaano69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
