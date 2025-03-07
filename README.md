@@ -1,8 +1,8 @@
 <h1>Hi, I'm Kaan! <br/>Welcome to my portfolio! 😀</br></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-  - ![<b>Portscanner für Kali Linux</b>](https://github.com/Kaano69/Portscanner-Kali-Linux-)
-- <b></b>
+
+- **[Portscanner-Kali-Linux](https://github.com/Kaano69/Portscanner-Kali-Linux-/blob/main/README.md)**
 
 <h2>📺 Website Portfolio </h2>
 
