@@ -17,7 +17,7 @@
 <h2> 💬 Kontakt </h2>
 
 [<img align="left" alt="Kaano69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Kaano69 | TryHackMe" width="22px" src="https://miro.medium.com/v2/resize:fit:824/0*Up9gvqqLTdB8YwGd.png" />][THM]
 
 [linkedin]: https://www.linkedin.com/in/kaan-kilic-330b5b258/
-[TryhackMe]: https://tryhackme.com/p/Kaano
+[THM]: https://tryhackme.com/p/Kaano
